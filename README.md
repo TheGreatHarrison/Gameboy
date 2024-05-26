@@ -1,4 +1,4 @@
-# gameboy
+# Gameboy
 Gameboy Emulator:
 ...
 Details to come
